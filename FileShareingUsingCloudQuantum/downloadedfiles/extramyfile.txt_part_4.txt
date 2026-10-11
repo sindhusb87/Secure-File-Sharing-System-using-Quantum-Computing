@@ -1,0 +1,3 @@
+3. Third Stage (0.8 to 1 Range):  
+Severe ulceration is characterized by dark or black color tones, highly irregular edges with sharp 
+angular changes, and extensive pixel coverage. Texture becomes coarse, and edge sharpness is 

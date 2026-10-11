@@ -1,0 +1,15 @@
+Diabetic Foot Ulcer Classification Based on Image Analysis  
+1. First Stage (0.1 to 0.3 Range):  
+Ulcers are detected with light -colored regions, well -defined and smooth edges, minimal angular 
+variation, and a small pixel area in the image. The texture and gradient changes are subtle, 
+indicating early -stage classification.  
+2. Second Stage (0.4 to 0.7 Range):  
+Images show moderate color intensification (darker hues), irregular edges with noticeable 
+angular variations, and a larger area of the affected region. Gradients are steeper, suggesting 
+progression.  
+3. Third Stage (0.8 to 1 Range):  
+Severe ulceration is characterized by dark or black color tones, highly irregular edges with sharp 
+angular changes, and extensive pixel coverage. Texture becomes coarse, and edge sharpness is 
+more pronounced, indicating advanced progression.  
+ 
+

@@ -1,0 +1,3 @@
+variation, and a small pixel area in the image. The texture and gradient changes are subtle, 
+indicating early -stage classification.  
+2. Second Stage (0.4 to 0.7 Range):  

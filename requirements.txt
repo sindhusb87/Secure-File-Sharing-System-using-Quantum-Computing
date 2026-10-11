@@ -1,0 +1,24 @@
+# Secure File Sharing Through Quantum Computing
+# Python 3.7+ required (Tkinter, smtplib, hashlib, base64 are built in)
+
+# --- Core: encryption ---
+pycryptodome>=3.18.0      # AES encryption/decryption
+cryptography>=41.0.0      # RSA key generation, encryption/decryption
+
+# --- Core: steganography & image handling ---
+Pillow>=9.5.0             # read/write cover images, LSB embedding
+numpy>=1.21.0             # pixel/bit manipulation
+
+# --- Core: cloud storage ---
+boto3>=1.28.0             # Amazon S3 upload/download
+
+# --- Quantum (QKD experiments on IBM Quantum) ---
+qiskit>=1.0.0
+qiskit-ibm-runtime>=0.20.0
+
+# --- Optional: data handling & analysis ---
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# --- Optional: environment variables for keys/tokens ---
+python-dotenv>=1.0.0

@@ -1,0 +1,11 @@
+Lib/
+Scripts/
+share/
+include/
+pyvenv.cfg
+venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+*.enc
